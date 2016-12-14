@@ -18,7 +18,7 @@ DEFAULT_LANG = u'zh'
 DEFAULT_DATE = u'fs'
 USE_FOLDER_AS_CATEGORY = True
 
-THEME = u'./themes/chameleon'
+THEME = u'./themes/medius'
 
 STATIC_PATHS = [
     'images',
