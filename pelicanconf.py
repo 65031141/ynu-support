@@ -18,6 +18,9 @@ DEFAULT_LANG = u'zh'
 DEFAULT_DATE = u'fs'
 USE_FOLDER_AS_CATEGORY = True
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = [ "plantuml" ]
+
 THEME = u'./themes/medius'
 
 STATIC_PATHS = [
