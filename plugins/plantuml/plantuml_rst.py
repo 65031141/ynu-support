@@ -68,7 +68,7 @@ def pelican_init(pelicanobj):
     """ Prepare configurations for the MD plugin """
     try:
         import markdown
-        from plantuml_md import PlantUMLMarkdownExtension
+        from .plantuml_md import PlantUMLMarkdownExtension
     except:
         # Markdown not available
         logger.debug("[plantuml] Markdown support not available")
