@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'
 
-DEFAULT_LANG = u'zh'
+BAIDU_ANALYTICS = True
 
 DEFAULT_DATE = u'fs'
 USE_FOLDER_AS_CATEGORY = True
