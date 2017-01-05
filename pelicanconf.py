@@ -25,6 +25,7 @@ THEME = u'./themes/medius'
 
 STATIC_PATHS = [
     'images',
+    'resources',
     'extra/robots.txt',
     'extra/favicon.ico',
     'extra/CNAME'
