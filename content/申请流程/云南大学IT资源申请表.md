@@ -19,11 +19,11 @@ Summary:云南大学IT资源申请表
 
 ##相关附件
 
-- [示例-申请在站群系统上开通网站v2.3.pdf](http://www.itc.ynu.edu.cn/docs/2016-12/ 20161226102644345800.pdf)
-- [示例-申请虚拟机并开通网站v2.3.pdf](http://www.itc.ynu.edu.cn/docs/2016-12/20161226102636858792.pdf)
-- [示例-申请打印机固定ipv2.3.pdf](http://www.itc.ynu.edu.cn/docs/2016-12/20161226102630797658.pdf)
-- [云南大学it资源申请表v2.3.docx](http://www.itc.ynu.edu.cn/docs/2016-12/20161220150328975034.docx)
-- [网站申请表附加内容（保密责任协议）.docx](http://www.itc.ynu.edu.cn/docs/2016-03/20160323150243374377.docx)
+- [示例-申请在站群系统上开通网站v2.3.pdf](http://www.itc.ynu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1355056356&wbfileid=2127399)
+- [示例-申请虚拟机并开通网站v2.3.pdf](http://www.itc.ynu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1355056356&wbfileid=2127398)
+- [示例-申请打印机固定ipv2.3.pdf](http://www.itc.ynu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1355056356&wbfileid=2127397)
+- [云南大学it资源申请表v2.3.docx](http://www.itc.ynu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1355056356&wbfileid=2218737)
+- [网站申请表附加内容（保密责任协议）.docx](http://www.itc.ynu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1355056356&wbfileid=2127401)
 
 
 
